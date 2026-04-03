@@ -1,0 +1,15 @@
+../Src/main.c:80:5:main	1
+../Src/main.c:105:13:Sensor_Init	1
+../Src/main.c:149:13:I2C_Start	3
+../Src/main.c:169:13:I2C_Address_Direction	5
+../Src/main.c:193:13:I2C_TransmitData	2
+../Src/main.c:210:13:I2C_Stop	1
+../Src/main.c:226:16:I2C_Receive_NACK	2
+../Src/main.c:247:16:I2C_Receive_ACK	2
+../Src/main.c:272:13:TemHumSensor_readRegister	4
+../Src/main.c:306:15:TemHumSensor_getTemp	1
+../Src/main.c:328:15:TemHumSensor_getHumi	2
+../Src/main.c:350:13:Update_Sensor_Value	2
+../Src/main.c:381:13:Update_LCD	4
+../Src/main.c:422:6:delay_ms	3
+../Src/main.c:441:6:AppInit_Manager	1
